@@ -17,7 +17,7 @@
 
 ### 📅 Objetivos para 2023:
 
-- ♠️ Ter uma base sólida em JavaScrip, React e MySQL [❌]
+- ♠️ Ter uma base sólida em JavaScript, React e MySQL [❌]
 
 - ♥️ Construir um amplo portifólio [❌]
 
