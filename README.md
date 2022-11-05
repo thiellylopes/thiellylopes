@@ -12,12 +12,12 @@
   </em>
 </p>
 
-- 👩‍💻 Atualmente estou aprendendo JavaScript e React
+- 👩‍💻 Atualmente estou aprendendo JavaScript e ReactJS
 - 📚 Estudante da Origamid e Udemy
 
 ### 📅 Objetivos para 2023:
 
-- ♠️ Ter uma base sólida em JavaScript, React e MySQL [❌]
+- ♠️ Ter uma base sólida em JavaScript, ReactJS e TypeScript [❌]
 
 - ♥️ Construir um amplo portifólio [❌]
 
