@@ -13,7 +13,7 @@
 </p>
 
 - 👩‍💻 Atualmente estou aprendendo JavaScript e ReactJS
-- 📚 Estudante da Origamid e Udemy
+- 📚 Estudante da Origamid, Rocketseat e Udemy
 
 ### 📅 Objetivos para 2023:
 
