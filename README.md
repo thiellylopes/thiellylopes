@@ -8,7 +8,7 @@
 
 <p>
   <em>
-    Tenho 23 anos, sou do interior do Rio Grande do Sul. Atualmente estudo para ter uma base sólida no front-end, mas futuramente pretendo ser uma desenvolvedora fullstack.
+    Tenho 24 anos, sou do interior do Rio Grande do Sul. Atualmente estudo para ter uma base sólida no front-end, mas futuramente pretendo ser uma desenvolvedora fullstack.
   </em>
 </p>
 
