@@ -23,7 +23,7 @@
 
 - ♣️ Adquirir experiência na área [❌]
 
-- ♦️ Começar a graduação de Análise e Desenvolvimento de Sistemas [❌]
+- ♦️ Começar a graduação de Análise e Desenvolvimento de Sistemas [✔️]
 
 - 🃏 Ser aprovada em uma vaga como desenvolvedora [❌]
 
