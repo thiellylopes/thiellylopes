@@ -2,7 +2,6 @@
   <h1 align="center">Olá, bem-vindo ao meu perfil. 👋</h1>
 </p>
 </p>
-<p>Att aqui</p>
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 <ul>
   <li>👋 Me chamo Thielly e tenho 25 anos.</li>
